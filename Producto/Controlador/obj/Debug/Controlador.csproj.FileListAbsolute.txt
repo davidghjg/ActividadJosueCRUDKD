@@ -10,3 +10,15 @@ C:\Users\HOME\Documents\JOSUE\Producto\Controlador\obj\Debug\Controlador.csproj.
 C:\Users\HOME\Documents\JOSUE\Producto\Controlador\obj\Debug\Controlador.csproj.CopyComplete
 C:\Users\HOME\Documents\JOSUE\Producto\Controlador\obj\Debug\Controlador.dll
 C:\Users\HOME\Documents\JOSUE\Producto\Controlador\obj\Debug\Controlador.pdb
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\bin\Debug\Controlador.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\bin\Debug\Controlador.pdb
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\bin\Debug\ModeloProducto.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\bin\Debug\MySql.Data.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\bin\Debug\Google.Protobuf.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\bin\Debug\ModeloProducto.pdb
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\bin\Debug\MySql.Data.xml
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\obj\Debug\Controlador.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\obj\Debug\Controlador.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\obj\Debug\Controlador.csproj.CopyComplete
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\obj\Debug\Controlador.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\Controlador\obj\Debug\Controlador.pdb

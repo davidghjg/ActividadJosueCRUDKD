@@ -8,3 +8,13 @@ C:\Users\HOME\Documents\JOSUE\Producto\ModeloProducto\obj\Debug\Modelo.csproj.Co
 C:\Users\HOME\Documents\JOSUE\Producto\ModeloProducto\obj\Debug\Modelo.csproj.CopyComplete
 C:\Users\HOME\Documents\JOSUE\Producto\ModeloProducto\obj\Debug\ModeloProducto.dll
 C:\Users\HOME\Documents\JOSUE\Producto\ModeloProducto\obj\Debug\ModeloProducto.pdb
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\bin\Debug\ModeloProducto.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\bin\Debug\ModeloProducto.pdb
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\bin\Debug\MySql.Data.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\bin\Debug\Google.Protobuf.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\bin\Debug\MySql.Data.xml
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\obj\Debug\ModeloProducto.dll
+C:\Users\HOME\Documents\GitHub\ActividadJosueCRUDKD2\Producto\ModeloProducto\obj\Debug\ModeloProducto.pdb
